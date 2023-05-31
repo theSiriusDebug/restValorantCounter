@@ -11,3 +11,6 @@ getUSD: It takes the amount in USD and performs the calculation based on specifi
 The code also utilizes logging using the Log4j library to record information about request execution and calculation results.
 
 Overall, this project demonstrates a simple RESTful web service example that provides an API for calculating values of an in-game currency based on given amounts.
+
+Technologies used in this project:
+Spring Framework, Boot, MVC, Log4j, JUnit, RESTfull API.
